@@ -1,6 +1,6 @@
 <?php
 namespace cd;
-
+//禁改版权
 use pocketmine\plugin\Plugin;
 use pocketmine\event\Listener;
 use pocketmine\plugin\PluginBase;
